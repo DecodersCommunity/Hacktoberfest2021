@@ -1,0 +1,18 @@
+
+=======================================================
+
+Article Title: Difference between Tree and Graph
+Author Name: Prarthana Sharma
+Author Profile: prarthanashr04
+Date: 23-Oct-2021
+
+=======================================================
+
+1	Graph is a non-linear data structure.	Tree is a non-linear data structure.
+2	It is a collection of vertices/nodes and edges.	It is a collection of nodes and edges.
+3	Each node can have any number of edges.	General trees consist of the nodes having any number of child nodes. But in case of binary trees every node can have at the most two child nodes.
+4	There is no unique node called root in graph.	There is a unique node called root in trees.
+5	A cycle can be formed.	There will not be any cycle.
+6	Applications: For finding shortest path in networking graph is used.	Applications: For game trees, decision trees, the tree is used.
+
+
